@@ -1,8 +1,14 @@
 # Choque de Trompos
 
-Juego de trompos para navegador: monta tu trompo, apunta y gana 3 rondas.
+Juego de trompos para navegador, contenido en un único archivo HTML.
 
-- **Campaña:** 15 niveles en 5 copas, jefes, estrellas y piezas que se desbloquean al avanzar.
-- **Partida rápida:** todas las piezas y estadios disponibles desde el principio.
+## Jugar
 
-Jugar: https://mtoromateos.github.io/beygame/
+- **Online:** activa GitHub Pages en este repositorio y abre `https://<usuario>.github.io/<repo>/`.
+- **Local:** abre `beyagame-demo.html` en cualquier navegador.
+
+## Archivos
+
+- `beyagame-demo.html` — el juego.
+- `beygame-demo-debug.html` — versión con herramientas de depuración.
+- `index.html` — redirige al juego (para GitHub Pages).
